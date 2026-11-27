@@ -1,6 +1,6 @@
 # Smart Study Desk Dashboard
 
-A Streamlit dashboard for the AI-Enabled IoT Smart Study Desk prototype.
+A Streamlit dashboard for the  IoT Smart Study Desk prototype.
 
 ## Features
 - Demo mode with automatically changing sensor readings (no Arduino needed)
